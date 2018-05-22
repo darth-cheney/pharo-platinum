@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ThemeSettings",
+	"category" : "Platinum-Theme",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PlatinumThemeSettings",
+	"type" : "normal"
+}

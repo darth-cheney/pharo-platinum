@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "EricGade 5/17/2018 11:35",
+	"super" : "Pharo3Theme",
+	"category" : "Platinum-Theme",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PlatinumTheme",
+	"type" : "normal"
+}

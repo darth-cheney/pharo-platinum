@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "EricGade 5/17/2018 11:36",
+	"super" : "RaisedBorder",
+	"category" : "Platinum-Theme",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"pushed",
+		"position"
+	],
+	"name" : "PltBtnRaisedInnerShadow",
+	"type" : "normal"
+}

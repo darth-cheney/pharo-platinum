@@ -1,0 +1,1 @@
+I am a subclass of RaisedBorder designed for use on Platinum Theme buttons.

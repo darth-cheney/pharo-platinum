@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "SimpleBorder",
+	"category" : "Platinum-Theme",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"pressed"
+	],
+	"name" : "PltButtonBorder",
+	"type" : "normal"
+}

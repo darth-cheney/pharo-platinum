@@ -1,0 +1,3 @@
+colors
+borderOutlineColor
+	^ Color black
